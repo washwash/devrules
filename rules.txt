@@ -1,0 +1,21 @@
+#1 do not discuss management decisions with your team mates in shadow
+#2 if need feel you are stuck -- ask your mates who like adventure
+#3 60% of your team mates are introverts -- do not push them with --force to together coding, party, or bug researching
+#4 ask your mentor/manager how you should develop yourself
+#5 do not work if you tired
+#6 work a lot if you have strong feeling you need it
+#7 get every task done and in best way
+#8 do not hurry
+#9 respect the effort of your team mates
+#10 do not be rude in a code review -- your mate made an effort
+#11 read try read read try
+
+#97 do not be jealous of succuess of other developers
+
+#102 take part in interview procedure, it makes you better developer
+
+
+#120 I am here to fix what is broken
+#138 do not apply developing philosophy of one programming language to another
+
+#213 think about cross library dependencies

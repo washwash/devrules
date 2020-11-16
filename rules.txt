@@ -1,23 +1,61 @@
-#1 do not discuss management decisions with your team mates in shadow
-#2 if need feel you are stuck -- ask your mates who like adventure
-#3 60% of your team mates are introverts -- do not push them with --force to together coding, party, or bug researching
-#4 ask your mentor/manager how you should develop yourself
-#5 do not work if you tired
-#6 work a lot if you have strong feeling you need it
-#7 get every task done and in best way
-#8 do not hurry
-#9 respect the effort of your team mates
-#10 do not be rude in a code review -- your mate made an effort
-#11 read try read read try
-#12 read books about programming, even if you think you know enough
+1 do not discuss management decisions with your team mates in shadow
+2 if need feel you are stuck -- ask your mates who like adventure
+3 60% of your team mates are introverts -- do not push them with --force to together coding, party, or bug researching
+4 ask your mentor/manager how you should develop yourself
+5 do not work if you tired
+6 work a lot if you have strong feeling you need it
+7 get every task done and in best way
+8 do not hurry
+9 respect the effort of your team mates
+10 do not be rude in a code review -- your mate made an effort
+11 read try read read try
+12 read books about programming, even if you think you know enough
 
-#84 team spirit and good mood are key principles of effective works from an office
-#97 do not be jealous of succuess of other developers
+84 team spirit and good mood are key principles of effective works from an office
+97 do not be jealous of succuess of other developers
 
-#102 take part in interview procedure, it makes you better developer
+102 take part in interview procedure, it makes you better developer
 
-#120 I am here to fix what is broken
-#138 do not apply developing philosophy of one programming language to another
+120 I am here to fix what is broken
+138 do not apply developing philosophy of one programming language to another
 
-#213 think about cross library dependencies
-#214 you are not a machine and not a non-substitutable genius, communication is matter more then you think
+139 Does this help with our problem?
+140 How does it compare against competitors?
+141 is there something that will help us more?
+142 is this the simplest thing we can do?
+143 does it bring unnecessary costs?
+144 is there extra maintenance after we implement this?
+
+145 Who maintains this library?
+146 Are there multiple maintainers?
+147 Are they still actively working on it?
+148 Are there recent commits?
+149 Did they write a recent blog post about it?
+150 Is the source available?
+151 Is it readable and well structured?
+152 Can we legally use it?
+153 What does the licensing model look like?
+154 How likely is that model to change?
+155 Has the product recently been acquired by another party?
+
+156 Do we know how it works?
+157 Do we understand how it was built?
+158 What did the developers use?
+159 What concepts & technologies are applied?
+160 Could we (theoretically) build our own?
+161 Do we know what the effect of our usage is?
+
+162 What problem does this new tech solve?
+163 Do we really need that?
+164 Which old, similar, thing do we have?
+165 Can that be replaced by the new one?
+166 How much effort would that be?
+167 What effect does having both have?
+168 On the maintenance of our solution?
+169 When we're on-boarding new developers?
+
+170 K.I.S.S.: Start with the simplest solution. (A monolith?), Discover your needs from PROD, Adapt to those needs, extract services
+171 Start with microservices when: Services need to scale independently (balance scale with cost), You have multiple clients (so they can adopt features at will), You have different technology stacks, You have conflicting dependencies
+
+213 think about cross library dependencies
+214 you are not a machine and not a non-substitutable genius, communication is matter more then you think

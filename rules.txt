@@ -57,5 +57,9 @@
 170 K.I.S.S.: Start with the simplest solution. (A monolith?), Discover your needs from PROD, Adapt to those needs, extract services
 171 Start with microservices when: Services need to scale independently (balance scale with cost), You have multiple clients (so they can adopt features at will), You have different technology stacks, You have conflicting dependencies
 
+172 give real prod issues and tasks to juns -- jun-dev is a part of a team
+173 tasks from terra incognita are very important for junes -- they have to know a project and communicate with different parts of a system and teams
+174 jun-dev is a grown man, but not child
+
 213 think about cross library dependencies
 214 you are not a machine and not a non-substitutable genius, communication is matter more then you think
